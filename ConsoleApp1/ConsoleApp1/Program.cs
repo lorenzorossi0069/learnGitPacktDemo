@@ -11,7 +11,7 @@ namespace ConsoleApp1
 			Console.WriteLine("in bash");
 			Console.WriteLine("another one in bash");
             Console.WriteLine("another new commit again in vs!!");
-
+			Console.WriteLine("to show staging area(idx)");
         }
     }
 }
