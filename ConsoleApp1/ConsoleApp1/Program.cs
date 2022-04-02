@@ -10,4 +10,10 @@ namespace ConsoleApp1
 			//vs2
         }
     }
+
+    public class Calculator
+    {
+
+    }
+
 }
