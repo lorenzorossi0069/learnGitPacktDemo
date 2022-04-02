@@ -7,7 +7,11 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("in visual studio ");
+            Console.WriteLine("in visual studio");
+			Console.WriteLine("in bash");
+			Console.WriteLine("another one in bash");
+            Console.WriteLine("another new commit again in vs!!");
+			Console.WriteLine("to show staging area(idx)");
         }
     }
 }
