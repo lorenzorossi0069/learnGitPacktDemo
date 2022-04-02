@@ -13,5 +13,4 @@ namespace ConsoleApp1
             return left + right;
         }
     }
-    
 }
